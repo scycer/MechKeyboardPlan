@@ -28,3 +28,7 @@ Min Cost to build $38.75
 - Pro Micro 2.98
 - 60/100 diodes 1/1.86
 - keycaps 106pc PBT Doubleshot $6.75
+
+
+Other options
+DSA 1u keycaps - https://www.aliexpress.com/store/product/pbt-dsa-keycap-dsa-1u-mixded-color-red-esc-yellow-blue-keycaps-for-gaming-mechanical-keyboard/2230037_32820475945.html
