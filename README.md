@@ -1,4 +1,13 @@
+Plate thickness top to bottom:
+- Above switch - 6-8mm
+- switch seat - 1.5mm to 5mm
+- switch depth - 8.3mm
+- bottom plate -1mm+
+
+18mm roughly?
+
 Switch details:
+- 6mm bottom cap to top switch seat (8mm would look nice?)
 - 1.5mm plate thickness (up to 5mm works)
 - 8.3mm overall from switch seat to end of pin
 - 3.3mm long pins
