@@ -12,3 +12,10 @@ TODO
 - find libusb files
 - see if plain AVRDUDE works
 - do i need to unplug and replug?
+
+
+Resources
+https://deskthority.net/workshop-f7/how-to-use-a-pro-micro-as-a-cheap-controller-converter-like-soarer-s-t8448.html
+https://www.reddit.com/r/MechanicalKeyboards/comments/64b7t6/help_flashing_hex_file_to_sparkfun_pro_micro/
+http://i.imgur.com/wMNx2u6.png
+https://github.com/nicinabox/lets-split-guide/blob/master/flashing.md
